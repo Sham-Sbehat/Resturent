@@ -22,7 +22,7 @@ The main goal of this project was to practice basic web development skills using
 
 ## 📸 Screenshot
 
-![Screenshot](blob:https://imgur.com/49b162be-d71e-4070-a942-53c8a460d96b)
+![Screenshot](https://i.imgur.com/hJFGDk3.jpeg)
 
 ## 💡 Author
 
